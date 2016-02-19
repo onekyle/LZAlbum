@@ -6,7 +6,7 @@
 
 # Support
 
-如果在使用过程中有任何问题，请提 [issue](https://github.com/lzwjava/LZAlbum/issues) ，我会在 Github 上给予帮助。
+如果在使用过程中有任何问题，请提 [issue](https://github.com/leancloud/LZAlbum/issues) ，我会在 Github 上给予帮助。
 
 # Run
 ```
